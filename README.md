@@ -6,3 +6,6 @@ Sales trends across outlet establishment years
 Product type performance
 Outlet size and location impact on sales
 Sales content breakdown by low-fat and regular products
+
+## Dataset Used
+- <a href="https://github.com/Dareddy1507/Data-analysis-Dashboard/blob/main/blinkit%20project.xlsx">Dataset</a>
