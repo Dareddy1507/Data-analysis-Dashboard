@@ -21,4 +21,5 @@ Visualization – Built Excel dashboard with KPIs, sales breakdowns, and trend c
 Insights – Tier 3 outlets & medium-sized stores lead sales; frozen foods, snacks, and household items drive revenue.
 
 ## Dashboard
-<a href="https://github.com/Dareddy1507/Data-analysis-Dashboard/blob/main/biinkit%20photo.jpg">Dashboard</a>
+![biinkit photo](https://github.com/user-attachments/assets/4984e9d5-8c2f-40f7-8a92-a58c53ed67ba)
+
