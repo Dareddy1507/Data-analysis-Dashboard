@@ -31,7 +31,7 @@ Frozen foods, snacks, and household products are the top revenue-generating cate
 outlets established in recent years show fluctuating sales trends, indicating varying market performance.
 Low Fat products contribute slightly more to sales than Regular items.
 
-##Final Conclusion
+#Final Conclusion
 
 The analysis reveals that Blinkit’s sales performance is strongly influenced by outlet location tier, size, and product category.
 Focusing on Tier 3 locations, maintaining medium-sized outlets, and prioritizing high-demand product categories like frozen foods and snacks can significantly boost revenue. Additionally, targeted marketing for newer outlets can help stabilize sales growth.
