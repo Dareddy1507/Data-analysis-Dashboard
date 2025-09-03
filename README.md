@@ -1,5 +1,5 @@
 # **Blinkit Grocery Sales Analysis**
-![Blinkit_Logo]()
+![Blinkit_Logo](https://github.com/Dareddy1507/Data-analysis-Dashboard/blob/main/blinkit_logo.jpeg)
 
 ## **Project Overview**
 The goal of this project was to uncover patterns and insights from Blinkit’s grocery sales data to support data-driven decision-making. The analysis covers:
